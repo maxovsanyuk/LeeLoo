@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddae84c40d115a4574530e2f9a597e21",
+    "revision": "831907a9e41e420d292c0369784d1a4f",
     "url": "/LeeLoo/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LeeLoo/static/js/2.f0cdc890.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d78ad3d99de97e17da9",
-    "url": "/LeeLoo/static/js/main.524bdb59.chunk.js"
+    "revision": "3912517dc13377b8af73",
+    "url": "/LeeLoo/static/js/main.f7b41298.chunk.js"
   },
   {
     "revision": "1cd85ad04bcbe7197e6d",
