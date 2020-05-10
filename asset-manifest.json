@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/LeeLoo/static/js/main.f7b41298.chunk.js",
-    "main.js.map": "/LeeLoo/static/js/main.f7b41298.chunk.js.map",
+    "main.js": "/LeeLoo/static/js/main.019fde7d.chunk.js",
+    "main.js.map": "/LeeLoo/static/js/main.019fde7d.chunk.js.map",
     "runtime-main.js": "/LeeLoo/static/js/runtime-main.f7db8bcd.js",
     "runtime-main.js.map": "/LeeLoo/static/js/runtime-main.f7db8bcd.js.map",
-    "static/js/2.f0cdc890.chunk.js": "/LeeLoo/static/js/2.f0cdc890.chunk.js",
-    "static/js/2.f0cdc890.chunk.js.map": "/LeeLoo/static/js/2.f0cdc890.chunk.js.map",
+    "static/js/2.f6449c8a.chunk.js": "/LeeLoo/static/js/2.f6449c8a.chunk.js",
+    "static/js/2.f6449c8a.chunk.js.map": "/LeeLoo/static/js/2.f6449c8a.chunk.js.map",
     "index.html": "/LeeLoo/index.html",
-    "precache-manifest.94cc10ff6268da3251898dde182b1a61.js": "/LeeLoo/precache-manifest.94cc10ff6268da3251898dde182b1a61.js",
+    "precache-manifest.b3181e76a841291b289ff2a6b40550b4.js": "/LeeLoo/precache-manifest.b3181e76a841291b289ff2a6b40550b4.js",
     "service-worker.js": "/LeeLoo/service-worker.js",
-    "static/js/2.f0cdc890.chunk.js.LICENSE.txt": "/LeeLoo/static/js/2.f0cdc890.chunk.js.LICENSE.txt",
+    "static/js/2.f6449c8a.chunk.js.LICENSE.txt": "/LeeLoo/static/js/2.f6449c8a.chunk.js.LICENSE.txt",
     "static/media/404.gif": "/LeeLoo/static/media/404.ba9f1973.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.f7db8bcd.js",
-    "static/js/2.f0cdc890.chunk.js",
-    "static/js/main.f7b41298.chunk.js"
+    "static/js/2.f6449c8a.chunk.js",
+    "static/js/main.019fde7d.chunk.js"
   ]
 }
