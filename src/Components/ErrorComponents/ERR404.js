@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-import svg404 from "../img/404.gif";
-import GoBackBtn from "./Buttons/GoBackBtn";
+import svg404 from "../../images/404.gif";
+import GoBackBtn from "../Buttons/GoBackBtn";
 
 const Component404 = styled.div`
   display: flex;
@@ -30,7 +30,7 @@ const Component404 = styled.div`
 const ERR404 = () => {
   return (
     <Component404>
-      <Link to="/LeeLoo">
+      <Link to="/">
         <GoBackBtn />
       </Link>
     </Component404>

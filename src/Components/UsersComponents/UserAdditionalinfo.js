@@ -13,7 +13,7 @@ import Alert from "@material-ui/lab/Alert";
 
 // LODASH
 
-import GoBackBtn from "./Buttons/GoBackBtn";
+import GoBackBtn from "../Buttons/GoBackBtn";
 
 const AddInfoCont = styled.div`
   display: flex;

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { fetchListOfUsers, setOffset } from "../Redux/actionsCreators";
+import { fetchListOfUsers, setOffset } from "../../Redux/actionsCreators";
 import { useParams } from "react-router";
 import styled from "styled-components";
 
@@ -176,7 +176,7 @@ const UsersTable = () => {
         )}
       </TableContainer>
 
-      <Link style={{ textDecoration: "none" }} to={`/LeeLoo/page/${offset}`} target>
+      <Link style={{ textDecoration: "none" }} to={`/page/${offset}`} target>
         <Pagination
           className="pagination"
           count={offset > offsetLimit ? routerPage : offsetLimit}
